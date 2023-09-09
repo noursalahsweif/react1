@@ -1,0 +1,17 @@
+.shape{
+    width: 250px;
+    background-color: black;
+    height: 5px;
+    border: 25%;
+    margin: 20px;
+}
+
+
+
+.alldata{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    width: 100%;
+}

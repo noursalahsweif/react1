@@ -1,0 +1,15 @@
+.aboutstyle{
+      background-color: #1ABC9C;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layer{
+    width: 250px;
+    background-color: white;
+    height: 5px;
+    border: 25%;
+    margin: 20px;
+}

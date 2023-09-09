@@ -1,0 +1,26 @@
+.design{
+    height: 100vh;
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add{
+    width: 250px;
+    background-color: black;
+    height: 5px;
+    border: 25%;
+    /* margin: 20px; */
+}
+
+.design2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    border-top: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
+}
